@@ -16,7 +16,8 @@ Screenshot of the console output from one of your builds
   
   
   Brief summary (3-5 sentences) describing what you learned about Jenkins navigation
-Jenkins is like a big control center for all your automation jobs. When I open the Jenkins dashboard, I can see all the jobs I've set up and whether they're successful or not. The Stage View is super helpful because it shows  exactly what’s happening during each part of your pipeline, like when building, testing, or deploying. If something goes wrong, I can check the Console Output to see all the details and errors. Overall, Jenkins helps to keep track of our projects and make sure everything runs smoothly from start to finish.
+    
+    Jenkins is like a big control center for all your automation jobs. When I open the Jenkins dashboard, I can see all the jobs I've set up and whether they're successful or not. The Stage View is super helpful because it shows  exactly what’s happening during each part of your pipeline, like when building, testing, or deploying. If something goes wrong, I can check the Console Output to see all the details and errors. Overall, Jenkins helps to keep track of our projects and make sure everything runs smoothly from start to finish.
 
 
 
